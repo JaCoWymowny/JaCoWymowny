@@ -47,7 +47,7 @@
 ### 📜 In the process of introducing 
 
 <span><img src="assets/badges/redux.svg" alt="redux" title="redux" width="30" height="28"/></span>
-<span><img src="assets/badges/next-js.svg" alt="next-js" title="next-js" width="30" height="28"/></span>
+<span><img src="assets/badges/next-js.svg" alt="next-js" title="next-js" width="60px" height="28"/></span>
 <span><img src="assets/badges/loading.svg" alt="loading" title="loading" width="40" height="34"/></span>
 
 ### ☎ Contact with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
