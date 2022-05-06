@@ -21,7 +21,7 @@
 ### 🕮 I try to learn from the best and actively participate in:
 
 - [CodersCrew](https://coderscrew.pl/)
-- [Udemy](https://www.udemy.com/) - React - The Complete Guide by Maximilian Schwarzmuller.
+- [Udemy](https://www.udemy.com/) - React: The Complete Guide by Maximilian Schwarzmuller.
 
 <hr>
 
