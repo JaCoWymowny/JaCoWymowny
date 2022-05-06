@@ -1,5 +1,3 @@
-<img src="assets/github-hero.png" alt="ahmetalpergit profile hero banner" width="100%" height="auto"/>
-
 # Hi, im Jacek Mickiewicz! <img src="assets\wave.gif" width="30px">
 
 > I'm an aspiring Front End Developer. <hr>
