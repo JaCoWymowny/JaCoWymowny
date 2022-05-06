@@ -47,7 +47,7 @@
 <span><img src="assets/badges/figma.svg" alt="figma" title="figma" width="30" height="30"/></span>
 <span><img src="assets/badges/adobexd.svg" alt="adobexd" title="adobexd" width="34" height="34"/></span>
 <span><img src="assets/badges/jira.svg" alt="jira" title="jira" width="30" height="27"/></span>
-<span><img src="assets/badges/trello.svg" alt="jira" title="jira" width="30" height="27"/></span>
+<span><img src="assets/badges/trello.svg" alt="trello" title="trello" width="30" height="27"/></span>
 <span><img src="assets/badges/loading.svg" alt="loading" title="loading" width="40" height="34"/></span>
 
 
