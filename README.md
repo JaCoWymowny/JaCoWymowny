@@ -18,6 +18,13 @@
 
 - 💬 I'm open for job opportunities
 
+### 🕮 I try to learn from the best and actively participate in:
+
+- [CodersCrew](https://coderscrew.pl/)
+- [Udemy](https://www.udemy.com/) - React - The Complete Guide by Maximilian Schwarzmuller.
+
+<hr>
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaCoWymowny&layout=compact&theme=dracula)
 
 
