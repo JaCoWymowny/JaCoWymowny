@@ -3,6 +3,7 @@
 > I'm an aspiring Front End Developer. <hr>
 >  Welcome and thanks for taking the time to visit my domain!
 
+<hr>
 
 ## ABOUT ME
 
@@ -28,6 +29,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaCoWymowny&layout=compact&theme=dracula)
 
+<hr>
 
 ### ⌨ Programming Tools
 <br />
@@ -42,6 +44,8 @@
 <span><img src="assets/badges/webstorm.svg" alt="webstorm" title="webstorm" width="30" height="28"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/styled-components.svg" alt="styled-components" title="styled-components" width="30" height="28"/>&nbsp;&nbsp;</span>
 
+<hr>
+
 ### 🎨 Design & management Tools
 <br />
 <span><img src="assets/badges/figma.svg" alt="figma" title="figma" width="30" height="30"/>&nbsp;&nbsp;</span>
@@ -49,11 +53,14 @@
 <span><img src="assets/badges/jira.svg" alt="jira" title="jira" width="30" height="27"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/trello.svg" alt="trello" title="trello" width="30" height="27"/>&nbsp;&nbsp;</span>
 
+<hr>
 
 ### 📜 In the process of introducing 
 <br />
 <span><img src="assets/badges/redux.svg" alt="redux" title="redux" width="30" height="28"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/next-js.svg" alt="next-js" title="next-js" width="60px" height="28"/>&nbsp;&nbsp;</span>
+
+<hr>
 
 ### ☎ Contact with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <h3>- 📧 <a href="mailto:mickiewicz.jacek@o2.pl">mickiewicz.jacek@o2.pl</a> </h3>
