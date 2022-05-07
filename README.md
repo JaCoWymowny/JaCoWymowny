@@ -21,41 +21,39 @@
 ### 🕮 I try to learn from the best and actively participate in:
 
 - [CodersCrew](https://coderscrew.pl/)
-- [Udemy](https://www.udemy.com/) - React: The Complete Guide by Maximilian Schwarzmuller.
 
+<br />
 <hr>
+<br />
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaCoWymowny&layout=compact&theme=dracula)
 
 
 ### ⌨ Programming Tools
-
-<span><img src="assets/badges/html5.svg" alt="html5" title="html5" width="38" height="38"/></span>
-<span><img src="assets/badges/css3.svg" alt="css3" title="css3" width="38" height="38"/></span>
-<span><img src="assets/badges/js.svg" alt="javascript" title="javascript" width="35" height="30"/></span>
-<span><img src="assets/badges/es6.svg" alt="es6" title="es6" width="30" height="28"/></span>
-<span><img src="assets/badges/react.svg" alt="react" title="react" width="34" height="34"/></span>
-<span><img src="assets/badges/typescript.svg" alt="typescript" title="typescript" width="35" height="30"/></span>
-<span><img src="assets/badges/eslint.svg" alt="eslint" title="eslint" width="32" height="32"/></span>
-<span><img src="assets/badges/firebase.svg" alt="firebase" title="firebase" width="30" height="30"/></span>
-<span><img src="assets/badges/webstorm.svg" alt="webstorm" title="webstorm" width="30" height="28"/></span>
-<span><img src="assets/badges/styled-components.svg" alt="styled-components" title="styled-components" width="30" height="28"/></span>
-<span><img src="assets/badges/loading.svg" alt="loading" title="loading" width="40" height="34"/></span>
+<br />
+<span><img src="assets/badges/html5.svg" alt="html5" title="html5" width="38" height="38"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/css3.svg" alt="css3" title="css3" width="38" height="38"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/js.svg" alt="javascript" title="javascript" width="35" height="30"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/es6.svg" alt="es6" title="es6" width="30" height="28"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/react.svg" alt="react" title="react" width="34" height="34"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/typescript.svg" alt="typescript" title="typescript" width="35" height="30"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/eslint.svg" alt="eslint" title="eslint" width="32" height="32"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/firebase.svg" alt="firebase" title="firebase" width="30" height="30"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/webstorm.svg" alt="webstorm" title="webstorm" width="30" height="28"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/styled-components.svg" alt="styled-components" title="styled-components" width="30" height="28"/>&nbsp;&nbsp;</span>
 
 ### 🎨 Design & management Tools
-
-<span><img src="assets/badges/figma.svg" alt="figma" title="figma" width="30" height="30"/></span>
-<span><img src="assets/badges/adobexd.svg" alt="adobexd" title="adobexd" width="34" height="34"/></span>
-<span><img src="assets/badges/jira.svg" alt="jira" title="jira" width="30" height="27"/></span>
-<span><img src="assets/badges/trello.svg" alt="trello" title="trello" width="30" height="27"/></span>
-<span><img src="assets/badges/loading.svg" alt="loading" title="loading" width="40" height="34"/></span>
+<br />
+<span><img src="assets/badges/figma.svg" alt="figma" title="figma" width="30" height="30"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/adobexd.svg" alt="adobexd" title="adobexd" width="34" height="34"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/jira.svg" alt="jira" title="jira" width="30" height="27"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/trello.svg" alt="trello" title="trello" width="30" height="27"/>&nbsp;&nbsp;</span>
 
 
 ### 📜 In the process of introducing 
-
-<span><img src="assets/badges/redux.svg" alt="redux" title="redux" width="30" height="28"/></span>
-<span><img src="assets/badges/next-js.svg" alt="next-js" title="next-js" width="60px" height="28"/></span>
-<span><img src="assets/badges/loading.svg" alt="loading" title="loading" width="40" height="34"/></span>
+<br />
+<span><img src="assets/badges/redux.svg" alt="redux" title="redux" width="30" height="28"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/next-js.svg" alt="next-js" title="next-js" width="60px" height="28"/>&nbsp;&nbsp;</span>
 
 ### ☎ Contact with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <h3>- 📧 <a href="mailto:mickiewicz.jacek@o2.pl">mickiewicz.jacek@o2.pl</a> </h3>
