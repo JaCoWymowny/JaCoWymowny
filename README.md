@@ -58,7 +58,7 @@
 ### 📜 In the process of introducing 
 <br />
 <span><img src="assets/badges/redux.svg" alt="redux" title="redux" width="30" height="28"/>&nbsp;&nbsp;</span>
-<span><img src="assets/badges/next-js.svg" alt="next-js" title="next-js" width="60px" height="28"/>&nbsp;&nbsp;</span>
+<span><img src="assets/badges/next-js.png" alt="next-js" title="next-js" width="30px" height="28"/>&nbsp;&nbsp;</span>
 
 <hr>
 
