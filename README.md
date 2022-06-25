@@ -43,7 +43,7 @@
 <span><img src="assets/badges/firebase.svg" alt="firebase" title="firebase" width="30" height="30"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/webstorm.svg" alt="webstorm" title="webstorm" width="30" height="28"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/styled-components.svg" alt="styled-components" title="styled-components" width="30" height="28"/>&nbsp;&nbsp;</span>
-
+<span><img src="assets/badges/redux.svg" alt="redux" title="redux" width="30" height="28"/>&nbsp;&nbsp;</span>
 <hr>
 
 ### 🎨 Design & management Tools
@@ -57,8 +57,6 @@
 
 ### 📜 In the process of introducing 
 <br />
-<span><img src="assets/badges/redux.svg" alt="redux" title="redux" width="30" height="28"/>&nbsp;&nbsp;</span>
-<span><img src="assets/badges/next-js.png" alt="next-js" title="next-js" width="30px" height="35"/>&nbsp;&nbsp;</span>
 
 <hr>
 
