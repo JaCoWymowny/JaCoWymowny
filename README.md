@@ -1,4 +1,4 @@
-# Hi, im Jacek Mickiewicz! <img src="assets\wave.gif" width="30px">
+# Hi, im Jacek Mickiewicz!
 
 > I'm an aspiring Front End Developer. <hr>
 >  Welcome and thanks for taking the time to visit my domain!
@@ -19,9 +19,9 @@
 
 - 💬 I'm open for job opportunities
 
-### 🕮 I try to learn from the best and actively participate in:
+### 🕮 I was learning from the best and i have finished Coders Camp:
 
-- [CodersCrew](https://coderscrew.pl/)
+- [CodersCrew](https://coderscrew.pl/) in association with LiveChat.
 
 <br />
 <hr>
@@ -55,12 +55,7 @@
 
 <hr>
 
-### 📜 In the process of introducing 
-<br />
-
-<hr>
-
-### ☎ Contact with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+### ☎ Contact with me
 <h3>- 📧 <a href="mailto:mickiewicz.jacek@o2.pl">mickiewicz.jacek@o2.pl</a> </h3>
 <h3>- 🔗 <a href="https://www.linkedin.com/in/jacek-mickiewicz-4b4563238/">LinkedIn</a> </h3>
 <br/>
