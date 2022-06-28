@@ -58,6 +58,7 @@
 ### ☎ Contact with me
 <h3>- 📧 <a href="mailto:mickiewicz.jacek@o2.pl">mickiewicz.jacek@o2.pl</a> </h3>
 <h3>- 🔗 <a href="https://www.linkedin.com/in/jacek-mickiewicz-4b4563238/">LinkedIn</a> </h3>
+<h3>- 🔗 <a href="https://jacek-mickiewicz.netlify.app">Portfolio</a> </h3>
 <br/>
 <div>
 <a href = 'https://github.com/JaCoWymowny'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
