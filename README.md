@@ -10,7 +10,10 @@
 
 - 💻 I am currently building a portfolio in the meantime by attending the Coders Camp
 
-- 💬 I'm open for job opportunities <br />
+- 💬 I'm open for job opportunities 
+<br />
+<br />
+<br />
 
 For more information, please visit my porfolio <br />
 https://jacek-portfolio.netlify.app/
