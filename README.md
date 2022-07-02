@@ -1,7 +1,5 @@
 # Front-end Developer
 
-## ABOUT ME
-
 - 📖 I’m self learning developer focused on Front-End
 
 - 👨‍💻 I’m experienced with Javascript, React, Typescript
@@ -12,11 +10,12 @@
 
 - 💻 I am currently building a portfolio in the meantime by attending the Coders Camp
 
-- 💬 I'm open for job opportunities
+- 💬 I'm open for job opportunities <br />
 
-For more information, please visit my porfolio https://jacek-portfolio.netlify.app/
+For more information, please visit my porfolio <br />
+https://jacek-portfolio.netlify.app/
 
-### 🕮 I was learning from the best and i have finished Coders Camp:
+### I was learning from the best and i have finished Coders Camp:
 
 - [CodersCrew](https://coderscrew.pl/) in association with LiveChat.
 
@@ -28,7 +27,7 @@ For more information, please visit my porfolio https://jacek-portfolio.netlify.a
 
 <hr>
 
-### ⌨ Programming Tools
+### Programming Tools
 <br />
 <span><img src="assets/badges/html5.svg" alt="html5" title="html5" width="38" height="38"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/css3.svg" alt="css3" title="css3" width="38" height="38"/>&nbsp;&nbsp;</span>
@@ -43,7 +42,7 @@ For more information, please visit my porfolio https://jacek-portfolio.netlify.a
 <span><img src="assets/badges/redux.svg" alt="redux" title="redux" width="30" height="28"/>&nbsp;&nbsp;</span>
 <hr>
 
-### 🎨 Design & management Tools
+### Design & management Tools
 <br />
 <span><img src="assets/badges/figma.svg" alt="figma" title="figma" width="30" height="30"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/adobexd.svg" alt="adobexd" title="adobexd" width="34" height="34"/>&nbsp;&nbsp;</span>
@@ -52,7 +51,7 @@ For more information, please visit my porfolio https://jacek-portfolio.netlify.a
 
 <hr>
 
-### ☎ Contact with me
+### Contact with me
 <h3>- 📧 <a href="mailto:mickiewicz.jacek@o2.pl">mickiewicz.jacek@o2.pl</a> </h3>
 <h3>- 🔗 <a href="https://www.linkedin.com/in/jacek-mickiewicz-4b4563238/">LinkedIn</a> </h3>
 <h3>- 🔗 <a href="https://jacek-portfolio.netlify.app/">Portfolio</a> </h3>
