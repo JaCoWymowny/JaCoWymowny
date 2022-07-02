@@ -13,12 +13,10 @@
 - 💬 I'm open for job opportunities 
 
 <br />
-<br />
 
 For more information, please visit my porfolio <br />
 https://jacek-portfolio.netlify.app/
 
-<br />
 <br />
 
 ## I was learning from the best and i have finished Coders Camp:
@@ -29,8 +27,12 @@ https://jacek-portfolio.netlify.app/
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaCoWymowny&layout=compact&theme=dracula)
 
-## Programming Tools
 <br />
+
+## Programming Tools
+
+<br />
+
 <span><img src="assets/badges/html5.svg" alt="html5" title="html5" width="38" height="38"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/css3.svg" alt="css3" title="css3" width="38" height="38"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/js.svg" alt="javascript" title="javascript" width="35" height="30"/>&nbsp;&nbsp;</span>
@@ -43,12 +45,18 @@ https://jacek-portfolio.netlify.app/
 <span><img src="assets/badges/styled-components.svg" alt="styled-components" title="styled-components" width="30" height="28"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/redux.svg" alt="redux" title="redux" width="30" height="28"/>&nbsp;&nbsp;</span>
 
-## Design & management Tools
 <br />
+
+## Design & management Tools
+
+<br />
+
 <span><img src="assets/badges/figma.svg" alt="figma" title="figma" width="30" height="30"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/adobexd.svg" alt="adobexd" title="adobexd" width="34" height="34"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/jira.svg" alt="jira" title="jira" width="30" height="27"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/trello.svg" alt="trello" title="trello" width="30" height="27"/>&nbsp;&nbsp;</span>
+
+<br />
 
 ## Contact with me
 <h3>- 📧 <a href="mailto:mickiewicz.jacek@o2.pl">mickiewicz.jacek@o2.pl</a> </h3>
