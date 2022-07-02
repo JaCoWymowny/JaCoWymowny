@@ -11,18 +11,20 @@
 - 💻 I am currently building a portfolio in the meantime by attending the Coders Camp
 
 - 💬 I'm open for job opportunities 
-<br />
+
 <br />
 <br />
 
 For more information, please visit my porfolio <br />
 https://jacek-portfolio.netlify.app/
 
+<br />
+<br />
+
 ## I was learning from the best and i have finished Coders Camp:
 
 - [CodersCrew](https://coderscrew.pl/) in association with LiveChat.
 
-<br />
 <br />
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaCoWymowny&layout=compact&theme=dracula)
@@ -40,7 +42,6 @@ https://jacek-portfolio.netlify.app/
 <span><img src="assets/badges/webstorm.svg" alt="webstorm" title="webstorm" width="30" height="28"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/styled-components.svg" alt="styled-components" title="styled-components" width="30" height="28"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/redux.svg" alt="redux" title="redux" width="30" height="28"/>&nbsp;&nbsp;</span>
-<hr>
 
 ## Design & management Tools
 <br />
