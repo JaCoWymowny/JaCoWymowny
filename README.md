@@ -1,7 +1,5 @@
 # Front-end Developer
 
-<hr>
-
 ## ABOUT ME
 
 - 📖 I’m self learning developer focused on Front-End
