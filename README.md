@@ -1,6 +1,6 @@
 # Front-end Developer
 
-> I'm an aspiring Front End Developer. <hr>
+> I'm an aspiring Front End Developer.
 >  Welcome and thanks for taking the time to visit my domain!
 
 <hr>
