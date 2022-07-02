@@ -1,8 +1,5 @@
 # Front-end Developer
 
-> I'm an aspiring Front End Developer.
->  Welcome and thanks for taking the time to visit my domain!
-
 <hr>
 
 ## ABOUT ME
@@ -18,6 +15,8 @@
 - 💻 I am currently building a portfolio in the meantime by attending the Coders Camp
 
 - 💬 I'm open for job opportunities
+
+For more information, please visit my porfolio https://jacek-portfolio.netlify.app/
 
 ### 🕮 I was learning from the best and i have finished Coders Camp:
 
