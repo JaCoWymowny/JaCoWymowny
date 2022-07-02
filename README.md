@@ -1,4 +1,4 @@
-# Hi, im Jacek Mickiewicz!
+# Front-end Developer
 
 > I'm an aspiring Front End Developer. <hr>
 >  Welcome and thanks for taking the time to visit my domain!
