@@ -23,15 +23,11 @@ https://jacek-portfolio.netlify.app/
 
 - [CodersCrew](https://coderscrew.pl/) in association with LiveChat.
 
-<br />
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaCoWymowny&layout=compact&theme=dracula)
 
 <br />
 
 ## Programming Tools
-
-<br />
 
 <span><img src="assets/badges/html5.svg" alt="html5" title="html5" width="38" height="38"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/css3.svg" alt="css3" title="css3" width="38" height="38"/>&nbsp;&nbsp;</span>
@@ -48,8 +44,6 @@ https://jacek-portfolio.netlify.app/
 <br />
 
 ## Design & management Tools
-
-<br />
 
 <span><img src="assets/badges/figma.svg" alt="figma" title="figma" width="30" height="30"/>&nbsp;&nbsp;</span>
 <span><img src="assets/badges/adobexd.svg" alt="adobexd" title="adobexd" width="34" height="34"/>&nbsp;&nbsp;</span>
