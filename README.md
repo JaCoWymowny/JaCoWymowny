@@ -4,11 +4,11 @@
 
 - 👨‍💻 I’m experienced with Javascript, React, Typescript
 
-- 🌱 I’m currently learning Redux & Next.js
+- 🌱 I’m currently learning Redux
 
 - 🏠 Based in Wroclaw, Poland
 
-- 💻 I am currently building a portfolio in the meantime by attending the Coders Camp
+- 💻 I am currently building a portfolio
 
 - 💬 I'm open for job opportunities 
 
