@@ -54,5 +54,5 @@ https://jacek-portfolio.netlify.app/
 
 ## Contact with me
 <h3>- 📧 <a href="mailto:mickiewicz.jacek@o2.pl">mickiewicz.jacek@o2.pl</a> </h3>
-<h3>- 🔗 <a href="[www.linkedin.com/in/JacekMickiewicz](https://www.linkedin.com/in/JacekMickiewicz/)">LinkedIn</a> </h3>
+<h3>- 🔗 <a href="https://www.linkedin.com/in/JacekMickiewicz">LinkedIn</a> </h3>
 <h3>- 🔗 <a href="https://jacek-portfolio.netlify.app/">Portfolio</a> </h3>
