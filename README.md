@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m experienced with Javascript, React, Typescript
 
-- 🌱 I’m currently learning Redux
+- 🌱 I am currently learning AWS
 
 - 🏠 Based in Wroclaw, Poland
 
